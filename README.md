@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Social
+### 📫 Social
 
 [![Linkedin Badge](https://img.shields.io/badge/-peterirlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-irlam-5229004b/)](https://www.linkedin.com/in/peter-irlam-5229004b/)
 [![Gmail Badge](https://img.shields.io/badge/-irlampeter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irlampeter@gmail.com)](mailto:irlampeter@gmail.com)
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
-### CI | Testing
+### Testing
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF)
 
 
