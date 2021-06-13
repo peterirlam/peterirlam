@@ -1,6 +1,6 @@
-### Hi there! 👋
-![Header](https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg)
+<img src="https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg">
 
+### Hi there! 👋
 
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
