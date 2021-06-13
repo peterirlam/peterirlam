@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### Social
 
-[![Linkedin Badge](https://img.shields.io/badge/-peterirlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-irlam-5229004b/)](https://www.linkedin.com/in/peter-irlam-5229004b/){:target="_blank" rel="noopener"}
+[![Linkedin Badge](https://img.shields.io/badge/-peterirlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-irlam-5229004b/)](https://www.linkedin.com/in/peter-irlam-5229004b/)
 [![Gmail Badge](https://img.shields.io/badge/-irlampeter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irlampeter@gmail.com)](mailto:irlampeter@gmail.com)
 
 ## ⚡ Technologies
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### Frameworks | Libraries | APIs
