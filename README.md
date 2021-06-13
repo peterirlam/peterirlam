@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## 📫 Social
 
-[![Linkedin Badge](https://img.shields.io/badge/-peterirlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-irlam-5229004b/)](https://www.linkedin.com/in/peter-irlam-5229004b/)
+[![Linkedin Badge](https://img.shields.io/badge/-peterirlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-irlam-5229004b/)](https://www.linkedin.com/in/peter-irlam-5229004b/)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-irlampeter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irlampeter@gmail.com)](mailto:irlampeter@gmail.com)
 
 ## ⚡ Technologies
