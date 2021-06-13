@@ -1,11 +1,13 @@
 <img src="https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg" width="100%" height="300">
 
-### Hi there! 👋
+# Peter Irlam
+
+## Hi there! 👋
+
+I am a full stack developer for Citizens Advice Lancashire West. I'm learning Python with plans to move onto learning Java & C#.
 
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
