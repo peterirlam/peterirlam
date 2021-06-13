@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 -->
 ## 📫 Social
 
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/peter-irlam-5229004b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ilampeter@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-peterirlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-irlam-5229004b/)](https://www.linkedin.com/in/peter-irlam-5229004b/)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-irlampeter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irlampeter@gmail.com)](mailto:irlampeter@gmail.com)
 
