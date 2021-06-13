@@ -1,4 +1,4 @@
-<img src="https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg" style="height: 100px">
+<img src="https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg" style="max-height: 50px">
 
 ### Hi there! 👋
 
