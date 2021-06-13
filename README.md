@@ -4,7 +4,9 @@
 
 ## Hi there! 👋
 
-I am a full stack developer for Citizens Advice Lancashire West. I'm learning Python with plans to move onto learning Java & C#.
+I am a full stack developer for Citizens Advice Lancashire West. 
+
+I'm learning Python with plans to move onto learning Java & C#.
 
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
