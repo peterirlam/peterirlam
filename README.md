@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF)
 
-### Frameworks | Libraries | APIs
+## Frameworks | Libraries | APIs
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)&nbsp;&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
-### Version Control | Coding
+## Version Control | Coding
 
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/TravelTimN)&nbsp;&nbsp;&nbsp;
@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)&nbsp;&nbsp;&nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=CodePen&logoColor=FFFFFF)](https://codepen.io/traveltimn)
 
-### Databases
+## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)&nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
-### Testing
+## Testing
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF)
 
 
