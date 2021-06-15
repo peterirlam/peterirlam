@@ -42,6 +42,7 @@ I'm learning Python with plans to move onto learning Java & C#.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)&nbsp;&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
+
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
 ## Version Control | Coding
