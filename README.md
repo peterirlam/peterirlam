@@ -37,6 +37,7 @@ I'm learning Python with plans to move onto learning Java & C#.
 
 ## Frameworks | Libraries 
 
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)&nbsp;&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
