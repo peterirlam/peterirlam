@@ -8,6 +8,10 @@ I am a full stack developer for Citizens Advice Lancashire West.
 
 I'm learning Python with plans to move onto learning Java & C#.
 
+Long term plan is to add Angular to my skill set, then move onto another functional language such as Elixer. 
+
+Lastly, search engine databases & dev ops such as Soir & Docker.
+
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
