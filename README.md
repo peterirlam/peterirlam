@@ -8,7 +8,7 @@ I am a full stack developer for Citizens Advice Lancashire West.
 
 I'm learning Python with plans to move onto learning Java & C#.
 
-Long term plan is to add Angular to my skill set, then move onto another functional language such as Elixer. 
+Long term plan is to add Angular to my skill set, then move onto another functional language such as Elixir. 
 
 Lastly, search engine databases & dev ops such as Soir & Docker.
 
