@@ -4,9 +4,9 @@
 
 ## Hi there! 👋
 
-I am a full stack developer for Citizens Advice Lancashire West. 
+I am a front end developer working for Citizens Advice Lancashire West. 
 
-I'm learning Python with plans to move onto learning Java & C#.
+Also experienced and skilled in React & back end technologies.
 
 Long term plan is to add Angular to my skill set, then move onto another functional language such as Elixir. 
 
