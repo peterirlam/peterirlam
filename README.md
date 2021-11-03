@@ -8,7 +8,7 @@ I am a front end developer working for Citizens Advice Lancashire West.
 
 Also experienced in React & back end technologies (junior level). 
 
-My ambition is become a senior full stack & React developer.
+My ambition is to become a senior full stack & React developer.
 
 Long term study plan is to learn Angular, then move onto another functional language such as Elixir (or whichever technologies will benefit my employer). 
 
