@@ -6,7 +6,7 @@
 
 I am a front end developer working for Citizens Advice Lancashire West. 
 
-I do have some knowledge of back end technologies but my main focus, for no, is front end (HTML, CSS, JavaScript & React).
+I do have some knowledge of back end technologies but my main focus, for now, is front end (HTML, CSS, JavaScript & React).
 
 My ambition, however, is to become a senior full stack & React developer.
 
