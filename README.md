@@ -6,30 +6,25 @@
 
 # Peter Irlam
 
-## Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol? 😂
+### Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol? 😂
 
 I am a front end developer working for Citizens Advice Lancashire West. 
 
-I have some knowledge of back end technologies but my main focus, for now, is front end (HTML, CSS, JavaScript & React).
-
-My ambition is to become a senior full stack & React developer.
-
-Long term study plan is to learn Angular, then move onto another functional language such as Elixir (or whichever technologies will benefit my employer). 
-
-Lastly, search engine databases & dev ops such as Soir & Docker.
+My goal is to become a senior full stack & React developer.
 
 <!--
-**peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a FULL STACK app using Express, Mongo DB & Mongoose.
+- 🌱 I’m currently brushing up on React JS.
+<!-- - 👯 I’m looking to collaborate on...nothing just at the moment!
+- 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about anything regarding html, css, JS -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Jeff Bezos originally named his company 'Cadabra', until his accountant misheard the name as 'cadaver' during a phone conversation 🪦.
+- 📕 Favourite quote: "Cry in the dojo; laugh on the battlefield"
+
 ## 📫 &nbsp; Social
 
 <p align="left">
