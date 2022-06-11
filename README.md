@@ -6,7 +6,7 @@
 
 # Peter Irlam
 
-## Hi there! 👋
+## Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol? 😂
 
 I am a front end developer working for Citizens Advice Lancashire West. 
 
