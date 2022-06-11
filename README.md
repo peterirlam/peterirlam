@@ -22,7 +22,7 @@ My goal is to become a senior full stack & React developer.
 <!-- - 💬 Ask me about anything regarding html, css, JS -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Jeff Bezos originally named his company 'Cadabra', until his accountant misheard the name as 'cadaver' during a phone conversation 🪦.
+- ⚡ Fun fact: Jeff Bezos originally named his company 'Cadabra', until his lawyer misheard the name as 'cadaver' during a phone conversation 🪦.
 - 📕 Favourite quote: "Cry in the dojo; laugh on the battlefield"
 
 ## 📫 &nbsp; Social
