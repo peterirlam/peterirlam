@@ -15,8 +15,8 @@ My goal is to become a senior full stack & React developer.
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 My current personal project is a FULL STACK app using Express, Mongo DB & Mongoose to advance my knowledge of FS development.
-- 🤓 I’m currently brushing up on React JS.
+- 🌱 I'm currently learning full stack development by creating a holiday homes app using Express, Mongo DB & Mongoose.
+- 🤓 Strengthening my knowledge on React JS.
 <!-- - 👯 I’m looking to collaborate on...nothing just at the moment!
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about anything regarding html, css, JS -->
