@@ -8,7 +8,7 @@
 
 ### "Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol?" 😂
 
-Hello 😃. I work for Citizens Advice Lancashire West as a front end developer and general IT support. 
+Hello 😃. I work for Citizens Advice Lancashire West as a front end developer and general IT support manager. 
 
 My goal is to become a senior full stack & React developer.
 
