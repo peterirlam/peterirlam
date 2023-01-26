@@ -30,15 +30,17 @@ My goal is to become a senior full stack & React developer.
   <a href="mailto:ilampeter@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## ⚡ Technologies
+## ⚡ Technologies | Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Frameworks | Libraries 
 
 ![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
 ## Version Control | Coding
@@ -53,9 +55,11 @@ My goal is to become a senior full stack & React developer.
 
 ## Testing
 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 ## Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.pinterest.co.uk/xukkhini/_created/)
 
 ## GitHub Stats & Most Used Languages 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peterirlam&theme=blue-green)](https://github.com/peterirlam/github-readme-stats)  &nbsp; &nbsp; [![Peter's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&theme=blue-green)](https://github.com/peterirlam/github-readme-stats)
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peterirlam&theme=blue-green)](https://github.com/peterirlam/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Peter's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&theme=blue-green)](https://github.com/peterirlam/github-readme-stats)
 
