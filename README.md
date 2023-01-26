@@ -6,23 +6,21 @@
 
 # Peter Irlam
 
-### "Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol?" 😂
+### "Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol?"
 
-Hello 😃. I work for Citizens Advice Lancashire West as a front end developer and general IT support manager. 
+Hello 😃. I work for Citizens Advice Lancashire West as a junior front end developer and general IT support manager. 
 
 My goal is to become a senior full stack & React developer.
 
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I'm currently learning full stack development by creating a personal project holiday homes app using Express, Mongo DB, EJS & Mongoose.
-- 🤓 I'm also strengthening & advancing my knowledge of React JS as well as learning SASS.
+- 🤓 I have 2 years’ experience in HTML, CSS and JavaScript and basic knowledge of React JS, Typescript, SASS, Git & GitHub, which I'm continuously developing through personal projects. Studying toward Professional Scrum Master I certificate.
 <!-- - 👯 I’m looking to collaborate on...nothing just at the moment!
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about anything regarding html, css, JS -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Jeff Bezos originally named his company 'Cadabra', until his lawyer misheard the name as 'cadaver' during a phone conversation 🪦.
 - 📕 Favourite quote: "Cry in the dojo; laugh on the battlefield"
 
 ## 📫 &nbsp; Social
@@ -37,17 +35,10 @@ My goal is to become a senior full stack & React developer.
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;
-![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 
 ## Frameworks | Libraries 
 
 ![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)&nbsp;&nbsp;&nbsp;
-![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
-
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
 ## Version Control | Coding
@@ -60,12 +51,7 @@ My goal is to become a senior full stack & React developer.
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=CodePen&logoColor=FFFFFF)](https://codepen.io/peter-irlam)
 
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)&nbsp;&nbsp;&nbsp;
-
 ## Testing
-![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF)
 
 ## Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.pinterest.co.uk/xukkhini/_created/)
