@@ -15,7 +15,7 @@ My goal is to become a senior full stack & React developer.
 <!--
 **peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🤓 I have 2 years’ experience in HTML, CSS and JavaScript and basic knowledge of React JS, Typescript, SASS, Git & GitHub, which I'm continuously developing through personal projects. Studying toward Professional Scrum Master I certificate.
+- 🤓 I have 2 years’ experience in HTML, CSS and JavaScript and good knowledge of React JS, Typescript, SASS, Git & GitHub, which I'm continuously developing through personal projects. Studying toward Professional Scrum Master I certificate.
 <!-- - 👯 I’m looking to collaborate on...nothing just at the moment!
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about anything regarding html, css, JS -->
