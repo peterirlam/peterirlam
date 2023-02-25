@@ -64,9 +64,9 @@ My goal is to become a senior full stack & React developer.
 ## Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.pinterest.co.uk/xukkhini/_created/)
 
+## :fire: My Stats:
 <table><tr><td valign="top" width="50%">
-  <h2 align="center">🔥 MyStats:</h2>
-<!-- ## :fire: My Stats : -->
+<!--   <h2 align="center">🔥 MyStats:</h2> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt)](https://git.io/streak-stats) -->
   <img src="http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt" width="500" />
 
