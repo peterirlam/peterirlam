@@ -62,7 +62,6 @@ My goal is to become a senior full stack & React developer.
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peterirlam&theme=blue-green)](https://github.com/peterirlam/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Peter's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&theme=blue-green)](https://github.com/peterirlam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
