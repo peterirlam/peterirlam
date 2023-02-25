@@ -64,8 +64,23 @@ My goal is to become a senior full stack & React developer.
 ## Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.pinterest.co.uk/xukkhini/_created/)
 
+<table><tr><td valign="top" width="50%">
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</td><td valign="top" width="50%">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=radical" width="500" />
+
+</tr></tr></table> 
+
+
+<!-- 
+<h2 align="center"> 💼 Languages and Tools</h2>
+
+<br /> -->
+  
+
+  
+
 
