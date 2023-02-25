@@ -10,15 +10,13 @@
 
 ---
 
-# :man_technologist: Peter Irlam
+<h1 align="center"><b>👨‍💻 Hi there, I'm Peter</b></h1>
+<h3 align="left">About me 😇</h3>
 
-About Me:<!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  -->
+<!-- ## 👨‍💻 About Me: -->
+<!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
-My goal is to become a senior full stack & React developer.
-
-<!--
-**peterirlam/peterirlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+- 🏁 My goal is to become a senior full stack & React developer.
 - 🤓 I have 2 years’ experience in HTML, CSS and JavaScript and good knowledge of React JS, Typescript, SASS, Git & GitHub, which I'm continuously developing through personal projects. Studying toward Professional Scrum Master I certificate.
 <!-- - 👯 I’m looking to collaborate on...nothing just at the moment!
 - 🤔 I’m looking for help with ... -->
