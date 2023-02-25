@@ -65,13 +65,15 @@ My goal is to become a senior full stack & React developer.
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.pinterest.co.uk/xukkhini/_created/)
 
 ## :fire: My Stats:
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="52%">
 <!--   <h2 align="center">🔥 MyStats:</h2> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt)](https://git.io/streak-stats) -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt" width="500" />
-
-</td><td valign="top" width="50%">
+  <br />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=peterirlam&theme=cobalt" width="500"/>
+  <br />
+</td><td valign="top" width="48%">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterirlam&layout=compact&theme=radical" width="500" />
-
+<br />
 </tr></tr></table> 
