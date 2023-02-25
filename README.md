@@ -4,11 +4,12 @@
 
 <img src="https://user-images.githubusercontent.com/47816066/163557320-4befe4a4-d30c-4334-9bb0-77eaed0fc99c.jpg" width="100%" height="300">
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 # Peter Irlam
 
-### "Have you tried initiating the power supply to the hard drive & engaging the mainframe protocol?"
-
-Hello 😃. I work for Citizens Advice Lancashire West as a junior front end developer and general IT support manager. 
+Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>. I work for Citizens Advice Lancashire West as a junior front end developer and general IT support manager. 
 
 My goal is to become a senior full stack & React developer.
 
