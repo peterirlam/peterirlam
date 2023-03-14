@@ -21,10 +21,10 @@
 <!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
 - 🎯 My goal is to become a senior full stack & React developer.
-- 🤓 I have 3 years’ experience in HTML, CSS, JavaScript, React JS, Git & GitHub, which I'm continuously developing through personal projects. 
-- Good working knowledge of TypeScript and Sass
+- 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React JS, Git & GitHub, which I'm continuously developing through personal projects. 
+- 🤓 Good working knowledge of TypeScript and Sass
 - Experience with Jest and Graph QL
-- Studying toward Professional Scrum Master I certificate.
+- 📚 Studying toward Professional Scrum Master I certificate.
 <!-- - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with ... -->
 💬 Ask me about anything about any of the above and I'll do my best to answer.
@@ -52,6 +52,10 @@
 ![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
+## Backend Development
+
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 ## Version Control | Coding
 
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)&nbsp;&nbsp;&nbsp;
@@ -63,7 +67,6 @@
 [![CodePen](https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=CodePen&logoColor=FFFFFF)](https://codepen.io/peter-irlam)
 
 ## Testing
-
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Design
