@@ -23,7 +23,7 @@
 - 🎯 My goal is to become a senior full stack & React developer.
 - 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React JS, Git & GitHub, which I'm continuously developing through personal projects. 
 - 🤓 Good working knowledge of TypeScript and Sass
-- Experience with Jest and Graph QL
+- 📈  Experience with Jest and Graph QL
 - 📚 Studying toward Professional Scrum Master I certificate.
 <!-- - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with ... -->
@@ -47,7 +47,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Frameworks | Libraries 
+## 🚀 Frameworks | Libraries 
 
 ![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
@@ -69,7 +69,7 @@
 ## Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## Design
+## 🖍 Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.pinterest.co.uk/xukkhini/_created/)
 
 ## :fire: My Stats:
