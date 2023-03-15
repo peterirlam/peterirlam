@@ -21,15 +21,15 @@
 <!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
 - 🎯 My goal is to become a senior full stack & React developer.
-- <!-- - 😄 Pronouns: ... -->
+<!-- - 😄 Pronouns: ... -->
 - 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React JS, Git & GitHub, which I'm continuously developing through personal projects. 
-- <!-- - 😄 Pronouns: ... -->
+<!-- - 😄 Pronouns: ... -->
 -  📈 Good working knowledge of TypeScript and Sass.
-- <!-- - 😄 Pronouns: ... -->
--   I'm currently learning Jest and Graph QL.
-- <!-- - 😄 Pronouns: ... -->
+<!-- - 😄 Pronouns: ... -->
+- I'm currently learning Jest and Graph QL.
+<!-- - 😄 Pronouns: ... -->
 - 📚 Studying toward Professional Scrum Master I certificate.
-- <!-- - 😄 Pronouns: ... -->
+<!-- - 😄 Pronouns: ... -->
 - 👯 I’m looking to collaborate on any open source projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything and I'll do my best to answer.
