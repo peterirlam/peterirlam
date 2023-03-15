@@ -20,7 +20,7 @@
 <!-- ## 👨‍💻 About Me: -->
 <!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
-- 🎯 My goal is to become a senior full stack & React developer.
+- 🎯 My goal is to become a senior full stack blending a variety of the most useful, up-to-date technolgies.
 <!-- - 😄 Pronouns: ... -->
 - 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React JS, Git & GitHub, which I'm continuously developing through personal projects. 
 <!-- - 😄 Pronouns: ... -->
