@@ -25,7 +25,7 @@
 - 🤓 Good working knowledge of TypeScript and Sass
 - 📈  Experience with Jest and Graph QL
 - 📚 Studying toward Professional Scrum Master I certificate.
-<!-- - 👯 I’m looking to collaborate on any open source projects.
+- 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with ... -->
 💬 Ask me about anything about any of the above and I'll do my best to answer.
 <!-- - 📫 How to reach me: ... -->
