@@ -26,7 +26,7 @@
 <!-- - 😄 Pronouns: ... -->
 -  📈 Good working knowledge of TypeScript and Sass.
 <!-- - 😄 Pronouns: ... -->
-- 🌱 I'm currently learning Jest and Graph QL.
+- 🌱 I'm currently learning Jest, Graph QL, Node.js, Express, Python & Java!
 <!-- - 😄 Pronouns: ... -->
 - 🏗️ My latest project is a React shopping cart complete with Stripe payments.
 <!-- - 😄 Pronouns: ... -->
