@@ -22,11 +22,11 @@
 
 - 🎯 My goal is to become a senior full stack developer blending a variety of the most useful, up-to-date technolgies.
 <!-- - 😄 Pronouns: ... -->
-- 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React JS, Git & GitHub, which I'm continuously developing through personal projects. 
+- 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React.js, Git & GitHub, which I'm continuously developing through personal projects. 
 <!-- - 😄 Pronouns: ... -->
 -  📈 Good working knowledge of TypeScript and Sass.
 <!-- - 😄 Pronouns: ... -->
-- 🌱 I'm currently learning Jest, Graph QL, Node.js, Express, Python & Java!
+- 🌱 I'm currently learning Jest, GraphQL, Node.js, Express.js, Python & Java!
 <!-- - 😄 Pronouns: ... -->
 - 🏗️ My latest project is a React shopping cart complete with Stripe payments.
 <!-- - 😄 Pronouns: ... -->
