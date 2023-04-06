@@ -26,7 +26,7 @@
 <!-- - 😄 Pronouns: ... -->
 -  📈 Good working knowledge of TypeScript and Sass.
 <!-- - 😄 Pronouns: ... -->
-- 🌱 I'm currently learning Jest, GraphQL, Node.js, Express.js, Python & Java!
+- 🌱 I'm currently learning Jest, Node.js and Python.
 <!-- - 😄 Pronouns: ... -->
 - 🏗️ My latest project is a React shopping cart complete with Stripe payments.
 <!-- - 😄 Pronouns: ... -->
@@ -57,10 +57,6 @@
 
 ![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF)&nbsp;&nbsp;&nbsp;
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
-
-## Backend Development
-
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Version Control | Coding
 
