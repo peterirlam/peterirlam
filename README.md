@@ -24,9 +24,9 @@
 <!-- - 😄 Pronouns: ... -->
 - 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React.js, Git & GitHub, which I'm continuously developing through personal projects. 
 <!-- - 😄 Pronouns: ... -->
--  📈 Good working knowledge of TypeScript and Sass.
+-  📈 Good knowledge of TypeScript and Sass.
 <!-- - 😄 Pronouns: ... -->
-- 🌱 I'm currently learning Jest, Node.js and Python.
+- 🌱 Basic experience with Jest, Cypress, Next.js, Tailwind CSS, SQL, Node.js and Python.
 <!-- - 😄 Pronouns: ... -->
 - 🏗️ My latest project is a React shopping cart complete with Stripe payments.
 <!-- - 😄 Pronouns: ... -->
