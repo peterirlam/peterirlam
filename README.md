@@ -28,7 +28,7 @@
 <!-- - 😄 Pronouns: ... -->
 - 🌱 Basic experience with Jest, Cypress, Next.js, Tailwind CSS, SQL, Node.js and Python.
 <!-- - 😄 Pronouns: ... -->
-- 🏗️ My latest project is a React shopping cart complete with Stripe payments.
+- 🏗️ My latest project is a beauty webiste for my first freelance client on Fiverr!
 <!-- - 😄 Pronouns: ... -->
 - 📚 Studying toward Professional Scrum Master I certificate.
 <!-- - 😄 Pronouns: ... -->
