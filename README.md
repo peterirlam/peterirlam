@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center"><b>👨‍💻 Hi there, I'm Peter</b></h1>
+<h1 align="center"><b>👨‍💻 Hi, I'm Peter</b></h1>
 
 **VIEW MY PORTFOLIO** [**HERE**](https://peter-irlam-portfolio.netlify.app/) &thinsp; :computer: 
 <br/>
@@ -22,11 +22,9 @@
 
 - 🎯 My goal is to become a senior full stack developer blending a variety of the most useful, up-to-date technolgies.
 <!-- - 😄 Pronouns: ... -->
-- 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React.js, Git & GitHub, which I'm continuously developing through personal projects. 
+- 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React.js, TypeScript, Sass, Git & GitHub, which I'm continuously developing through freelance work & personal projects. 
 <!-- - 😄 Pronouns: ... -->
--  📈 Good knowledge of TypeScript and Sass.
-<!-- - 😄 Pronouns: ... -->
-- 🌱 Basic experience with Jest, Cypress, Next.js, Tailwind CSS, SQL, Node.js and Python.
+-  📈 Also experienced in Next.js, Redux, Tailwind CSS, Restful APIs, Axios, SQL, Jest & Cypress.
 <!-- - 😄 Pronouns: ... -->
 - 🏗️ My latest project is a beauty webiste for my first freelance client on Fiverr!
 <!-- - 😄 Pronouns: ... -->
