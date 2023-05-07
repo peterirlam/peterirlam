@@ -22,7 +22,7 @@
 
 - 🎯 My goal is to become a senior full stack developer blending a variety of the most useful, up-to-date technolgies.
 <!-- - 😄 Pronouns: ... -->
-- 📊  I have 3 years’ experience in HTML, CSS, JavaScript, React.js, TypeScript, Sass, Git & GitHub, which I'm continuously developing through freelance work & personal projects. 
+- 📊  I have 3 years’ experience in JavaScript, React.js, TypeScript, Sass, HTML, CSS, Git & GitHub, which I'm continuously developing through freelance work & personal projects. 
 <!-- - 😄 Pronouns: ... -->
 -  📈 Also experience using Next.js, Redux, Tailwind CSS, jQuery, Restful APIs, Axios, SQL, Jest & Cypress.
 <!-- - 😄 Pronouns: ... -->
