@@ -26,6 +26,8 @@
 <!-- - 😄 Pronouns: ... -->
 -  📈 Also experience using Next.js, Redux, Tailwind CSS, jQuery, Restful APIs, Node.js, Axios, SQL, Jest & Cypress.
 <!-- - 😄 Pronouns: ... -->
+-  🌱 Currently learning Express, Mongo, Mongoose & EJS Templates.
+<!-- - 😄 Pronouns: ... -->
 - 🏗️ My latest project is a beauty webiste for my first freelance client on Fiverr!
 <!-- - 😄 Pronouns: ... -->
 - 📚 Studying toward Professional Scrum Master I certificate.
