@@ -24,7 +24,7 @@
 <!-- - 😄 Pronouns: ... -->
 - 📊  I have 3 years’ experience in JavaScript, React.js, TypeScript, Sass, HTML, CSS, Git & GitHub. 
 <!-- - 😄 Pronouns: ... -->
--  📈  Basic experience using Next.js, Redux, Tailwind CSS, Node.js, SQL, Jest & Cypress (which I'm coninuously developing through presonal projects & freelance work.
+-  📈  Basic experience using Next.js, Redux, Tailwind CSS, Node.js, SQL, Jest & Cypress (which I'm coninuously developing through personal projects & freelance work.
 <!-- - 😄 Pronouns: ... -->
 -  🌱 Currently learning Express, Mongo, Mongoose & EJS Templates.
 <!-- - 😄 Pronouns: ... -->
