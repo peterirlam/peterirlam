@@ -30,7 +30,7 @@
 <!-- - 😄 Pronouns: ... -->
 -  🌱 Currently learning Express, Mongo, Mongoose & EJS Templates.
 <!-- - 😄 Pronouns: ... -->
-- 🏗️ My latest project is a vehicle air con site for a freelance client. I am building the project using advanced Typescript, React, Tailwind CSS and Framer Motion.
+- 🏗️ My latest commercial project is a vehicle air con site for a freelance client. I am building the project using advanced Typescript, React, Tailwind CSS and Framer Motion.
 <!-- - 😄 Pronouns: ... -->
 - 📚 Studying toward Professional Scrum Master I certificate.
 <!-- - 😄 Pronouns: ... -->
