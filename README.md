@@ -20,13 +20,13 @@
 <!-- ## 👨‍💻 About Me: -->
 <!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
-- 🎯 My goal is to become a senior full stack developer blending a variety of the most useful, up-to-date technolgies.
+- 🎯 My goal is to become a senior full-stack developer blending a variety of the most useful, up-to-date technologies.
 <!-- - 😄 Pronouns: ... -->
 - 🔥 I have 3 years’ experience in JavaScript, HTML, CSS, Git and GitHub. 
 <!-- - 😄 Pronouns: ... -->
-- 📊 And 2 years’ experience using React.js, TypeScript and Sass. 
+- 📊 And 2 years’ experience using React.js, TypeScript, Tailwind and Sass. 
 <!-- - 😄 Pronouns: ... -->
--  📈  Basic experience with Next.js, Redux, Tailwind CSS, Node.js, SQL, Jest & Cypress (which I'm coninuously developing through personal projects & freelance work.
+-  📈  Basic experience with Next.js, Redux, React Native, Node.js, SQL, Jest & Cypress (which I'm continuously developing through personal projects & freelance work.
 <!-- - 😄 Pronouns: ... -->
 -  🌱 Currently learning Express, Mongo, Mongoose & EJS Templates.
 <!-- - 😄 Pronouns: ... -->
@@ -34,7 +34,7 @@
 <!-- - 😄 Pronouns: ... -->
 - 📚 Studying toward Professional Scrum Master I certificate.
 <!-- - 😄 Pronouns: ... -->
-- 👯 I’m looking to collaborate on any open source projects.
+- 👯 I’m looking to collaborate on any open-source projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything and I'll do my best to answer.
 <!-- - 📫 How to reach me: ... -->
