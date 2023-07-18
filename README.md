@@ -12,7 +12,7 @@
 
 <h1 align="center"><b>👨‍💻 Hi, I'm Peter</b></h1>
 
-**VIEW MY PORTFOLIO** [**HERE**](https://peter-irlam-portfolio.netlify.app/) &thinsp; :computer: 
+**View my personal** [**side projects**](https://peter-irlam-portfolio.netlify.app/) &thinsp; :computer: 
 <br/>
 
 <h3 align="left">About me 😇</h3>
