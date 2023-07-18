@@ -20,22 +20,14 @@
 <!-- ## 👨‍💻 About Me: -->
 <!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
-- 🎯 My goal is to become a senior full-stack developer blending a variety of the most useful, up-to-date technologies.
+- 🎯 I'm passionate about all things IT, whether virtual, physical, hardware or software. My ambition is to become a Senior IT Engineer.
 <!-- - 😄 Pronouns: ... -->
-- 🔥 I have 3 years’ experience in JavaScript, HTML, CSS, Git and GitHub. 
+- 🔥 I have 3 years’ experience providing technical support and administration for hardware, software, network and operating systems via phone, email, or in person. 
 <!-- - 😄 Pronouns: ... -->
-- 📊 And 2 years’ experience using React.js, TypeScript, Tailwind and Sass. 
+- 📊 I love dabbling in full-stack development which I believe gives me a greater understanding & appreciation for the IT microcosm. I have a good knowledge of React.js, TypeScript, Tailwind and Sass. 
 <!-- - 😄 Pronouns: ... -->
--  📈  Basic experience with Next.js, Redux, React Native, Node.js, SQL, Jest & Cypress (which I'm continuously developing through personal projects & freelance work.
+-  📈  Basic experience with Next.js, Redux, React Native, Node.js, SQL, Jest Cypress and React Testing Library, Express, Mongo and Mongoose.
 <!-- - 😄 Pronouns: ... -->
--  🌱 Currently learning Express, Mongo, Mongoose & EJS Templates.
-<!-- - 😄 Pronouns: ... -->
-- 🏗️ My latest commercial project is a vehicle air con site for a freelance client. I am building the project using advanced Typescript, React, Tailwind CSS and Framer Motion.
-<!-- - 😄 Pronouns: ... -->
-- 📚 Studying toward Professional Scrum Master I certificate.
-<!-- - 😄 Pronouns: ... -->
-- 👯 I’m looking to collaborate on any open-source projects.
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything and I'll do my best to answer.
 <!-- - 📫 How to reach me: ... -->
 - 📕 Favourite quote: "Cry in the dojo; laugh on the battlefield"
