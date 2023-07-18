@@ -37,7 +37,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/peter-irlam/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ilampeter@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.fiverr.com/peterirlam/build-a-modern-responsive-website-with-unique-custom-code-no-templates?context_referrer=collection_page&ref_ctx_id=3227cdda1277e646c3312b74babb37ce&pckg_id=1&pos=1&imp_id=fbe23ded-e466-4a04-9071-4bf426ec0e95"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
 
 ## ⚡ Technologies | Languages
