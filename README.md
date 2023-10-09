@@ -1,11 +1,9 @@
-<!-- <img src="https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg" width="100%" height="300"> -->
-
 <!-- ![LorumIpsumbg](https://user-images.githubusercontent.com/47816066/163557320-4befe4a4-d30c-4334-9bb0-77eaed0fc99c.jpg) -->
 
 <!-- <img src="https://user-images.githubusercontent.com/47816066/163557320-4befe4a4-d30c-4334-9bb0-77eaed0fc99c.jpg" width="100%" height="300"> -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/peterirlam/peterirlam/blob/main/MatrixStyleCode.jpg" width="100%" height="300"> 
 </div>
 
 ---
