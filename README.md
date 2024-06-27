@@ -18,9 +18,8 @@
 <!-- ## 👨‍💻 About Me: -->
 <!-- Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I work for Citizens Advice Lancashire West as a junior front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and general IT support manager.  --> 
 
-- 🎯 I'm passionate about all things IT, whether virtual, physical, hardware or software. My ambition is to become a Senior IT Engineer.
 <!-- - 😄 Pronouns: ... -->
-- 🔥 I have 3 years’ experience providing technical support and administration for hardware, software, network and operating systems via phone, email, or in person. 
+- 🎯 I have over 4 years of experience providing technical support and administration for hardware, software, network and operating systems via phone, email, or in person. 
 <!-- - 😄 Pronouns: ... -->
 - 📊 I love dabbling in full-stack development which I believe gives me a greater understanding & appreciation for the IT microcosm. I have a good knowledge of React.js, TypeScript, Tailwind and Sass. 
 <!-- - 😄 Pronouns: ... -->
