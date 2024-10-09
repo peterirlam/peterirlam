@@ -23,7 +23,7 @@
 <!-- - 😄 Pronouns: ... -->
 - 📊 I love dabbling in full-stack development which I believe gives me a greater understanding & appreciation for the IT microcosm. I have a good knowledge of React.js, TypeScript, Tailwind and Sass. 
 <!-- - 😄 Pronouns: ... -->
--  📈  Basic experience with Next.js, Redux, React Native, Node.js, SQL, Jest Cypress and React Testing Library, Express, Mongo and Mongoose.
+-  📈  Intermediate experience with Next.js, Redux, React Native, Node.js, SQL, Jest Cypress and React Testing Library, Express, Mongo and Mongoose.
 <!-- - 😄 Pronouns: ... -->
 - 💬 Ask me anything and I'll do my best to answer.
 <!-- - 📫 How to reach me: ... -->
